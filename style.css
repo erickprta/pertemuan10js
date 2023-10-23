@@ -1,0 +1,32 @@
+
+* {
+    font-size: 20px;
+    margin: 0;
+}
+.title {
+    background: blue;
+    border: 10px solid blue;
+    font-size: 25px;
+    width: 35%;
+    color: white;
+}
+
+.exchange {
+    background: lightyellow;
+    border: 10px solid blue;
+    width: 30%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#btn {
+    background: lightblue;
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+}
+
+#btn:hover {
+    background: blue;
+    color: white;
+}
